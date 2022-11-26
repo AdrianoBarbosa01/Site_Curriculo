@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family:'Segoe UI';
+    color: #242424;
+    background-color: rgb(235, 235, 235); 
+}
+.home{
+    font-family: 'Éfese', cursive;
+    font-size: 45px; 
+    text-align: center;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 70px;
+} 
+.verde{
+    background-color: rgb(108, 255, 108);
+}   
+table{
+    margin: auto;
+    border: 3px solid black;
+    border-collapse: collapse;
+    width: 800px ;
+    height: 200px;
+}
+td{
+    border: 1px solid rgb(190, 190, 190);
+}

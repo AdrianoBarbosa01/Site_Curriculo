@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family:'Segoe UI';
+    color: #242424;
+    background-color: rgb(235, 235, 235);
+}
+.home{
+    font-family: 'Éfese', cursive;
+    font-size: 45px; 
+    text-align: center;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 70px;
+} 
+.Forças{
+    background-color: rgb(120, 186, 240);
+}  
+table{
+    margin: auto;
+    background-color: white;
+    border: 3px solid black;
+    width: 1200px;
+    height: 450px;
+}
+.Fraquezas{
+    background-color: rgb(47, 255, 110);
+}
+.Opor{
+    background-color:  rgb(255, 195, 66);
+}
+.Ameaça{
+    background-color: rgb(255, 103, 103);
+}
+td{
+    border: 1px solid rgb(0, 0, 0);
+}
